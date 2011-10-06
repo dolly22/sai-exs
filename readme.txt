@@ -5,7 +5,7 @@ dedicated server (SAI) is required. These scripts are powering Ex's
 goal servers (company value servers).
 
 OpenTTD SAI - http://github.com/dolly22/openttd-sai
-Ex's SAI - http://github.com/dolly22/exs-sai
+Ex's SAI - http://github.com/dolly22/sai-exs
 
 Quick start
 -----------
